@@ -4,7 +4,7 @@ Homebrew tap for the Terragrunt version manager (tgenv) formula.
 
 ## How do I install this formula?
 
-First `brew tap sigsegv13/tgenv`.  This will setup the tap to access the formula in this repository.
+First `brew tap HNKNTA/homebrew-tgenv`.  This will setup the tap to access the formula in this repository.
 
 If you already have Terragrunt installed via Homebrew, then you need to unlink the existing install as it will conflict with tgenv, `brew unlink terragrunt`.
 
